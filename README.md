@@ -2,7 +2,7 @@
 
 
 
-### https://github.com/bjy291/chatbotNode 와 연계.
+### https://github.com/bjy291/telebot/blob/main/README.md 와 연계.
 - 챗봇 개발을 위한 형태소 분석, 전화번호부 검색을 위한 파이썬 개발 모듈
 
 
